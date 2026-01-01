@@ -2,6 +2,10 @@
 
 This repository contains an interactive sales dashboard visualizing Adidas US sales data across regions, methods, gender demographics, product categories, and quarterly trends. The dashboard provides key insights into profitability, sales distribution, and growth patterns to support data-driven business decisions.
 
+## Dashboard Screen 
+
+<img width="1008" height="424" alt="Screenshot 2026-01-01 091258" src="https://github.com/user-attachments/assets/849190b1-8661-46bd-987a-da0a179ef302" />
+
 ## Dashboard Overview
 
 The dashboard features a multi-panel layout displaying interconnected KPIs and trends for Adidas US operations:
@@ -48,6 +52,4 @@ For contributions or customizations, submit pull requests with updated visuals o
 
 MIT License - feel free to fork and adapt for analytics projects.
 
-## Dashboard Screen 
 
-<img width="1008" height="424" alt="Screenshot 2026-01-01 091258" src="https://github.com/user-attachments/assets/849190b1-8661-46bd-987a-da0a179ef302" />
